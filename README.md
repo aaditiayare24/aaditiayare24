@@ -1,19 +1,14 @@
-# Hi there 👋, I'm Aaditi!
+# Hey there 👋
+I'm Aaditi, an Electronics & Telecommunication (ENTC) undergraduate with a strong interest in embedded systems and hardware–software integration. I enjoy learning by building and exploring how software and electronics come together in real-world applications.
 
-👩‍💻 **ENTC Undergraduate** | ⚙️ Electronics, Coding & Embedded Systems Enthusiast
+-🔌 Passionate about embedded systems and core electronics
 
-- 🎓 Pursuing Electronics & Telecommunication Engineering
-- 🔌 Passionate about Embedded Systems and Hardware-Software Integration
-- 🛠️ Learning by building real-world projects
-- 🔭 Exploring Data Science, AI, and Cybersecurity fundamentals
+-🛠️ Learning through hands-on, project-based work
 
-## 🛠️ Tools & Technologies
-| Category          | Skills & Tools                             |
-|-------------------|--------------------------------------------|
-| **Programming**   | Python, C, C++ (basics)                    |
-| **Electronics**   | Digital Systems, Sensors, Basic Electrical Concepts |
-| **Embedded**      | Arduino                                    |
-| **Software**      | Data Science, AI Concepts, Cybersecurity   |
+-🔭 Exploring the fundamentals of Data Science, AI, and Cybersecurity
+
+## 🛠️ Tools & Technologies-
+I have a basic working knowledge of Python, C, and C++, along with foundational understanding of digital systems, sensors, and core electrical concepts. I have hands-on experience using Arduino for embedded projects and am currently exploring data science, artificial intelligence, and cybersecurity fundamentals.
 
 ## 🚀 Projects
 ### 🔐 File Integrity Checker
@@ -23,13 +18,13 @@
 - Solar-powered Arduino setup with sensors and LCD display for real-time weather data.
 
 ## 🎯 Current Focus
-- Strengthening core electronics & digital design
-- Building hands-on embedded prototypes 
+- Strengthening core electronics & digital design concepts
 - Sharpening problem-solving and programming 
 
-## ✨ Fun Facts
-- Love sketching 
-- Always curious, constantly learning
+## ✨ Beyond Tech
+-Enjoy sketching
+
+-Naturally curious and committed to continuous learning
 
 
 <!--
