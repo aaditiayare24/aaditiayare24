@@ -8,7 +8,8 @@ I'm Aaditi, an Electronics & Telecommunication (ENTC) undergraduate with a stron
 -🔭 Exploring the fundamentals of Data Science, AI, and Cybersecurity
 
 ## 🛠️ Tools & Technologies-
-I have a basic working knowledge of Python, C, and C++, along with foundational understanding of digital systems, sensors, and core electrical concepts. I have hands-on experience using Arduino for embedded projects and am currently exploring data science, artificial intelligence, and cybersecurity fundamentals.
+I have a basic working knowledge of Python, C, and C++, along with foundational understanding of digital systems, sensors, and core electrical concepts.
+I have hands-on experience using Arduino for embedded projects, mainly through academic and self-driven experiments, and am currently exploring exploring data science, artificial intelligence, and cybersecurity fundamentals.
 
 ## 🚀 Projects
 ### 🔐 File Integrity Checker
@@ -22,9 +23,9 @@ I have a basic working knowledge of Python, C, and C++, along with foundational 
 - Sharpening problem-solving and programming 
 
 ## ✨ Beyond Tech
--Enjoy sketching
+- Enjoy sketching and visualizing ideas
+- Curious by nature and always looking to learn something new
 
--Naturally curious and committed to continuous learning
 
 
 <!--
